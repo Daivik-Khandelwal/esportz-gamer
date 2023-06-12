@@ -1,0 +1,85 @@
+@media (min-width:0) and ( max-width:500px ){
+     .home .heading{
+        color: yellow;
+        font-size: 55px;
+        position: relative;
+        top: 20px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .home .subheading{
+        color: red;
+        font-size: 50px;
+       
+        margin-bottom: 42px;
+        text-align: center;
+    }
+     .home .con{
+        color: yellow;
+        font-size: 10px;
+        width: 96%;
+        margin-left: 0;
+    }
+    .home .button24{
+        margin-left: 45px;
+        margin-top: 62px;
+        margin-bottom: 52px;    font-size: 55px;
+    }
+    .details{
+        display: block;
+    }
+    .heading2{
+        font-size: 55px;
+    }
+    .about .details .con{
+        width: 108%;
+        margin-left: 0;
+    }
+    .about .details .img img{
+        width: 186%;
+    margin-left: 0px;
+    margin-top: 103px;
+    }
+
+    .about .details .img img{
+        width: 95%;
+    margin-left: 0;
+    position: relative;
+    bottom: 53px;
+    }
+    .about .details .con{
+font-size: 10px;
+width: 109%;
+margin-left: 0;
+    }
+    .service .bgmi{
+        display: block;
+    }
+.contact .container{
+    display: block;
+}
+.contact .container .right{
+    margin-top:  10px;
+}
+
+
+    .display1{
+        display: block;
+    }
+    .display2{
+        display: none;
+    }
+    .service .bgmi .con2{
+        width: 97%;
+        margin-left: -22px;
+        margin-top: 10px;
+    }
+    .service .bgmi .ch1{    font-size: 21px;}
+    .service .bgmi .ch2{
+        width: 109%;
+    } 
+    
+}
+
+
+
